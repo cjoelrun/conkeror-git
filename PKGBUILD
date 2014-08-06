@@ -15,7 +15,7 @@ provides=(conkeror)
 changelog=ChangeLog
 install=conkeror-git.install
 
-source=('git://repo.or.cz/conkeror.git' 
+source=('http://repo.or.cz/conkeror.git' 
         'conkeror_gimpfile.xpm' 'conkeror.sh')
 md5sums=('SKIP' 'SKIP' 'SKIP')
 _gitname="conkeror"
